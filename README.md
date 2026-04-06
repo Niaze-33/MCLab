@@ -36,32 +36,10 @@ The goal of this assignment is to build a visually structured UI layout by repla
 
 ## 📷 Screenshot
 
-![UI Screenshot](flutter_ui_mock.png)
+![UI Screenshot](flutter.png)
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/flutter-ui-design-assignment.git
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd flutter-ui-design-assignment
-   ```
-
-3. Run the app:
-
-   ```bash
-   flutter pub get
-   flutter run
-   ```
-
----
 
 ## 📂 Project Structure
 
@@ -69,7 +47,7 @@ The goal of this assignment is to build a visually structured UI layout by repla
 lib/
  └── main.dart
 assets/
- └── flutter_ui_mock.png
+ └── flutter.png
 ```
 
 ---
@@ -78,11 +56,11 @@ assets/
 
 | Field        | Value  |
 | ------------ | ------ |
-| Roll         | 12345  |
-| Registration | 987654 |
-| District     | Dhaka  |
-| Blood Group  | A+     |
-| Nickname     | Niaz   |
+| Roll         | 22CSE033  |
+| Registration | 110-033-22 |
+| District     | Jhalakathi  |
+| Blood Group  | O+     |
+| Nickname     | kaincha   |
 
 ---
 
@@ -96,7 +74,7 @@ assets/
 
 ## 👨‍💻 Author
 
-**Mahmudul Hasan Niaze**
+**Md.Mahmudul Hasan Niaji**
 
 ---
 
