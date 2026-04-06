@@ -36,7 +36,8 @@ The goal of this assignment is to build a visually structured UI layout by repla
 
 ## 📷 Screenshot
 
-![UI Screenshot](flutter.png)
+![UI Screenshot](flu<img width="665" height="608" alt="Screenshot 2026-04-06 at 9 36 16 PM" src="https://github.com/user-attachments/assets/f0b1bac9-a804-49fa-ac14-e2ffe548311c" />
+tter.png)
 
 ---
 
